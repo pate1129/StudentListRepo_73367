@@ -47,9 +47,10 @@ public class Student {
         return id;
     }
 
-    public String getDoB()
-    {
-        return"DoB";
-    }
+
+public String toString()
+{
+ return"student";
+}
 }
 
